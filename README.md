@@ -6,6 +6,9 @@
 ## Project Objective
 We propose to develop an autonomous RC car that uses machine learning and sensor integration for self-driving capabilities. The car will navigate its environment by using sensors such as a camera, ultrasonic sensors, and an IMU to make real-time driving decisions such as steering, obstacle avoidance, and path-following.
 
+![High Level Overview](/Users/nageswararaojanapareddy/Desktop/Screenshot 2025-02-28 at 8.37.00 AM.png)
+
+
 ## Contributions
 This project will combine machine learning techniques for real-time autonomous driving with hardware integration, including the development of software to process camera and sensor inputs, and control the motors. The unique aspect of this project is the integration of end-to-end machine learning models (such as a pre-trained PilotNet model) and sensor fusion (combining data from cameras, ultrasonic sensors, and an IMU) to allow the car to autonomously navigate a predefined track or area.
 
