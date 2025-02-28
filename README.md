@@ -67,6 +67,7 @@ We will measure success based on the ability of the RC car to autonomously navig
   
 
 ### Code Ran on the RC Car
-
+- [RC Car Control System Code](https://github.com/CL2-UWaterloo/f1tenth_ws) 
   
 ### Concepts
+- [Autonomous Vehicle Concepts](https://docs.google.com/spreadsheets/d/1FV-rlEDtDSVjZdNAR5vM9HfcuraY6xOOSImGc2S5yww/edit?gid=0#gid=0)  
