@@ -59,3 +59,14 @@ We will measure success based on the ability of the RC car to autonomously navig
 - The car demonstrates real-time path-following with smooth steering and speed adjustments.
 - The system is able to process sensor data and control the car using an end-to-end machine learning model.
 - If feasible, optimizing lap times and successfully navigating the track faster while maintaining stability will be considered an additional achievement.
+
+## Online Resources
+
+### Raceline Optimization Code
+- [Raceline Optimization Algorithm](https://github.com/CL2-UWaterloo/Raceline-Optimization)    
+  
+
+### Code Ran on the RC Car
+
+  
+### Concepts
